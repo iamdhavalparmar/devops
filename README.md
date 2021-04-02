@@ -1,2 +1,0 @@
-# devops
-Implementing DevOps 
